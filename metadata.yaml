@@ -1,4 +1,8 @@
 _repo: Gaut-Gurley-Or-the-Trappers-of-Umbagog-A-Tale-of-Border-Life_7087
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Thompson, Daniel P. (Daniel Pierce)
@@ -10,6 +14,8 @@ creator:
     gutenberg_agent_id: '2270'
     url: http://www.gutenberg.org/2009/agents/2270
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7087#Gaut-Gurley-Or-the-Trappers-of-Umbagog-A-Tale-of-Border-Life
 gutenberg_issued: '2004-12-01'
 gutenberg_type: Text
 identifiers:
